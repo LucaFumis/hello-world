@@ -1,0 +1,25 @@
+
+[
+    { "name": "Priority: Low", "color": "#88A6BB" },
+    { "name": "Priority: Medium", "color": "#FCBB33" },
+    { "name": "Priority: High", "color": "#E07A24" },
+    { "name": "Priority: Critical", "color": "#A22522" },
+
+    { "name": "Status: New", "color": "#000" },
+    { "name": "Status: In progress", "color": "#88A6BB" },
+    { "name": "Status: Delayed", "color": "#FCBB33" },
+    { "name": "Status: Blocked", "color": "#A22522" },
+    { "name": "Status: On Hold", "color": "#A22522" },
+    { "name": "Status: Needs info", "color": "#A22522" },
+    { "name": "Status: Fixed", "color": "#404662" },
+    { "name": "Status: Won't fix", "color": "#404662" },
+
+    { "name": "Kind: Bug", "color": "#A22522" },
+    { "name": "Kind: Maintenance", "color": "#FCBB33" },
+    { "name": "Kind: New feature", "color": "#404662" },
+    { "name": "Kind: Question", "color": "#88A6BB" },
+
+    { "name": "Tag: Biogen", "color": "#DDD" },
+    { "name": "Tag: Takeda", "color": "#DDD" },
+    { "name": "Tag: GSK", "color": "#DDD" }
+  ]
